@@ -210,7 +210,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your CakePHP application on OpenShift - WebHook from https://github.com/lucpioro/cakephp-ex/ </h1>
+            <h1>Welcome to your CakePHP application on OpenShift - WebHook from github.com/lucpioro/cakephp-ex/ </h1>
           </hgroup>
 
 
